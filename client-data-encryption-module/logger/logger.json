@@ -1,0 +1,20 @@
+[
+  {
+    "source": "guardian",
+    "payload": {
+      "name": "Ivan Ivanov",
+      "email": "daf8f13c328531bb1e83014dd9284632ad12d0016cc446a5d0c66fd04e0f0b53",
+      "password": "c9037a6027e9332c72df6dba1d477a24"
+    },
+    "created": "2022-05-17T16:37:08.583Z"
+  },
+  {
+    "source": "guardian",
+    "payload": {
+      "name": "Petr Petrov",
+      "email": "53f9cdb4386ef2306fb91ddd1cfb26cd3a37a572df50f998b86f6ecc9d69ed54",
+      "password": "1816b681cd7f3ef7bcb59f1cf2effa5b"
+    },
+    "created": "2022-05-17T16:37:08.652Z"
+  }
+]
